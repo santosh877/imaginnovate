@@ -54,25 +54,13 @@ const url = `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lo
 
 For Running This App
 ............................
-Clone the project : git clone https://github.com/skd09021991/codeclouds.git
+Clone the project : git clone https://github.com/santosh877/imaginnovate.git
 
 Open the project in a editor of your choice then run =  
 
 1>   npm i 
 2>   npm start
 
-App is deployed in heroku
 
-.........................
-
-Live Demo : 
-
-http://codeclouds-app.herokuapp.com/
-
-
-Really sorry , i was unable to upload the images to the docker . As my system is not configured with the docker and i am trying to configure and made an id also but it fails .
-
-docker id: skd9291
-password: santosh@9291
 
 
